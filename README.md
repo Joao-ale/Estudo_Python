@@ -1,3 +1,4 @@
-# Estudo_Python
+# Estudo Python
 ## Qual a funcionalidade do repositório?
-Criei esse repositório para acompanhar minha evolução programando em python
+Este repositório foi criado com o intuito de compartilhar os códigos que desenvolvo e acompanhar a minha evolução como programador,
+comparando os programas mais básicos até os mais complexos.
