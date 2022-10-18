@@ -1,3 +1,4 @@
 # Estudo Python
 ## Qual a funcionalidade do repositório?
-Repositório criado para acompanhar a evolução, com exercícios para treinar as habilidades aprendidas durante os cursos realizados.
+Este repositório foi criado com o intuito de compartilhar os códigos que desenvolvo e acompanhar a minha evolução como programador,
+comparando os programas mais básicos até os mais complexos.
